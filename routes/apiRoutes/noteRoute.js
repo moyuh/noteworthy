@@ -3,11 +3,12 @@ const router = require('express').Router();
 
 const {
     notes
-}= require('./db/db.json')
+}= require('../../db/db.json');
+
 const {
     newNote,
     deleteNote,
-} = require('./helpers/notesFS.js')
+} = require('../../helpers/notesFS');
 
 //GET POST and DELETE 'notes'
 router.get('/notes', (req,res)=>{
