@@ -1,7 +1,3 @@
-[
-    {
-        "title":"Welcome to Noteworthy",
-        "text":"Please click the plus to add a new note and the trash can to delete a current saved note",
-        "id":"0"
-    }
-]
+{
+  "notes": []
+}
