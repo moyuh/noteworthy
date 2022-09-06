@@ -5,7 +5,7 @@ function newNote(body, noteArr) {
     const note = body;
     noteArr.push(note);
     
-    fs.writeFileSync(   path.join (_dirname,'../../db/db.json'), JSON.stringify({
+    fs.writeFileSync(path.join (__dirname,'../db/db.json'), JSON.stringify({
         notes: noteArr
     }, null, 2) 
     )
@@ -20,7 +20,7 @@ function deleteNote(noteArr, id){
         noteArr[i].id = i.toString();       
     }
 
-    fs.writeFileSync(path.join(_dirname,'../../db/db.json'), JSON.stringify({
+    fs.writeFileSync(path.join(__dirname,'../db/db.json'), JSON.stringify({
         notes: noteArr
     }, null, 2)
 
