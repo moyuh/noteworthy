@@ -20,6 +20,8 @@
  This is an app to help the user save notes to review at any time. The user can add and delete notes as they see fit.
 
  <img src= "public/assets/images/dry-badlands-33193.herokuapp.com_notes.png"/>
+
+ Deployed app: [Noteworthy](https://dry-badlands-33193.herokuapp.com/)
  ## [Installation](#table-of-contents)
  1. Clone this repository 
  2. Install the associated packages by opening the integrated terminal and using npm i 
@@ -29,8 +31,7 @@
 To keep track of your notes, can be shopping lists, school notes, whatever the user may need to save.
 
  ## [License](#table-of-contents) 
-    This project is under the following license: 
-    [MIT](https://choosealicense.com/licenses/MIT/)
+This project is under the following license: 
  ![badge](https://img.shields.io/badge/license-MIT-blue )
 
  ## [Contributer](#table-of-contents)
