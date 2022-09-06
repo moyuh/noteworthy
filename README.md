@@ -18,11 +18,12 @@
  
  ## [Description](#table-of-contents)
  This is an app to help the user save notes to review at any time. The user can add and delete notes as they see fit.
+
+ <img src= "public/assets/images/dry-badlands-33193.herokuapp.com_notes.png"/>
  ## [Installation](#table-of-contents)
  1. Clone this repository 
  2. Install the associated packages by opening the integrated terminal and using npm i 
  3. To run it use npm start and follow the link to the live port. 
-
 
  ## [Usage](#table-of-contents)
 To keep track of your notes, can be shopping lists, school notes, whatever the user may need to save.
