@@ -1,3 +1,7 @@
 {
-  "notes": []
+  "notes": [{
+    "title": "How to use:",
+    "text": "To add a note click the + icon, to save click the save icon, and to delete an existing note click the trash icon next to that note",
+    "id": "0" }
+  ]
 }
